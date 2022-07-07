@@ -1,0 +1,3 @@
+[submodule "cj9"]
+	path = cj9
+	url = https://github.com/python-discord/code-jam-qualifier-9
